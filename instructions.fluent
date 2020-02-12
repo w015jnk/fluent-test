@@ -1,0 +1,5 @@
+rc ~/data/Version1
+/solve/initialize/hyb-initialization
+/solve/iterate 1000
+exit
+yes
