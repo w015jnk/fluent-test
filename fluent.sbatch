@@ -2,7 +2,7 @@
 #
 #SBATCH --job-name=test
 #SBATCH --output=/home/%u/%x-%u-%j.out
-#SBATCH -N 100
+#SBATCH -N 1
 #SBATCH --time=30:00
 #SBATCH --mem-per-cpu=257669
 
