@@ -24,5 +24,5 @@ srun /usr/local/bin/singularity exec ~/ansys.sif \
 	/usr/ansys_inc/v194/fluent/bin/fluent 3ddp \
 	-g \
 	-t16 \
-	-i ~/git/fluent-test/instructions.file 
+	-i ~/git/fluent-test/instructions.fluent 
  
